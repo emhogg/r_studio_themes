@@ -8,3 +8,7 @@ rstudioapi::addTheme(barbie, apply = TRUE)
 # Updated theme
 barbie2 <- "https://raw.githubusercontent.com/emhogg/barbie_r_studio_themes/main/Barbie%20Theme%20Light%202.rstheme"
 rstudioapi::addTheme(barbie2, apply = TRUE)
+
+# Dark Theme
+barbiedark <- "https://raw.githubusercontent.com/emhogg/r_studio_themes/main/Barbie%20Theme%20Dark.rstheme"
+rstudioapi::addTheme(barbiedark, apply = TRUE)
