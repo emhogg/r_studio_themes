@@ -24,6 +24,5 @@ Required packages:
 
 Drop a comment if you have any issues.
 
-Created by Emelia Hogg. 
 
 P.S. Thanks Jack for your pull request :)
