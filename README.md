@@ -1,21 +1,29 @@
 # r_studio_themes
 
+Barbie inspired RStudio themes for all the hyper-femmes out there.
+
+To add these themes to your RStudio, follow the steps outlined below. 
+
 Required packages: 
-- rstudioapi: `install.packages(rstudioapi)`
+- rstudioapi: `install.packages("rstudioapi")`
+- `library(rstudioapi)`
 
-## To add this theme to R studio:
-- `barbie <- "https://raw.githubusercontent.com/emhogg/barbie_r_studio_themes/main/Barbie_Theme_Light.rstheme"`
-- `rstudioapi::addTheme(barbie, apply = TRUE)`
-![b1](https://user-images.githubusercontent.com/80669114/149295518-4b94ca8f-7f0e-486b-a2bf-9d4fb8d08fa7.png)
+## Add Barbie Light to RStudio:
+- `barbie_light <- "https://raw.githubusercontent.com/emhogg/barbie_r_studio_themes/main/Barbie_Light.rstheme"`
+- `rstudioapi::addTheme(barbie_light, apply = TRUE)`
 
+### Barbie Light theme preview
+<img width="800" alt="Barbie Light Theme Preview" src="https://user-images.githubusercontent.com/83481390/208359433-27dfa486-e00a-452e-afb5-c5a05cf54807.png">
 
-## Updated theme
-- `barbie2 <- "https://raw.githubusercontent.com/emhogg/barbie_r_studio_themes/main/Barbie%20Theme%20Light%202.rstheme"`
-- `rstudioapi::addTheme(barbie2, apply = TRUE)`
-![b2](https://user-images.githubusercontent.com/80669114/149295573-253fce56-487a-40f0-87af-a2b5bdda70dd.png)
+## Add Barbie Dark to RStudio
+- `barbie_dark <- "https://raw.githubusercontent.com/emhogg/barbie_r_studio_themes/main/Barbie_Dark.rstheme"`
+- `rstudioapi::addTheme(barbie_dark, apply = TRUE)`
 
+### Barbie Dark theme preview
+<img width="800" alt="Barbie Dark" src="https://user-images.githubusercontent.com/83481390/208359464-8482471f-f364-40c2-b793-1685b470fef9.png">
 
-## Dark Theme
-- `barbiedark <- "https://raw.githubusercontent.com/emhogg/r_studio_themes/main/Barbie%20Theme%20Dark.rstheme"`
-- `rstudioapi::addTheme(barbiedark, apply = TRUE)`
-![bdark](https://user-images.githubusercontent.com/80669114/149295583-06f3caf2-5a20-4b1c-bba9-7cdcda74101e.png)
+Drop a comment if you have any issues.
+
+Created by Emelia Hogg. 
+
+P.S. Thanks Jack for your pull request :)
