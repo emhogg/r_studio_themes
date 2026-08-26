@@ -1,4 +1,4 @@
-# r_studio_themes
+# Barbie RStudio Themes 🌸
 
 Barbie-inspired RStudio themes for all the hyper-femmes out there.
 
