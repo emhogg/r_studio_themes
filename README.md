@@ -19,8 +19,12 @@ Required packages:
 - `barbie_dark <- "https://raw.githubusercontent.com/emhogg/r_studio_themes/main/Barbie_Dark_v2.rstheme"`
 - `rstudioapi::addTheme(barbie_dark, apply = TRUE)`
 
-### Barbie Dark theme preview
+### Barbie Dark v2.0 preview
+<img width="800" height="868" alt="Barbie Dark v2.0 Rstudio theme preview" src="https://github.com/user-attachments/assets/9d4af2e2-2c4c-4a51-8b0d-94b02658215c" />
+
+### Barbie Dark preview
 <img width="800" alt="Barbie Dark" src="https://user-images.githubusercontent.com/83481390/208359464-8482471f-f364-40c2-b793-1685b470fef9.png">
+
 
 ### Troubleshooting
 
