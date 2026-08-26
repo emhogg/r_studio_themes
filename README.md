@@ -20,10 +20,7 @@ Required packages:
 - `rstudioapi::addTheme(barbie_dark, apply = TRUE)`
 
 ### Barbie Dark v2.0 preview
-<img width="800" height="868" alt="Barbie Dark v2.0 Rstudio theme preview" src="https://github.com/user-attachments/assets/9d4af2e2-2c4c-4a51-8b0d-94b02658215c" />
-
-### Barbie Dark preview
-<img width="800" alt="Barbie Dark" src="https://user-images.githubusercontent.com/83481390/208359464-8482471f-f364-40c2-b793-1685b470fef9.png">
+<img width="972" height="868" alt="Barbie_Dark_v2" src="https://github.com/user-attachments/assets/49d73a9d-8ae2-40a3-8ce1-fab96dd25525" />
 
 
 ### Troubleshooting
